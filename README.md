@@ -1,5 +1,6 @@
 # Python-Letter
-A super exiting exercise done as a part of my course where the task was to find the number of letters that can be posted and the task was retricted just to use the If-condition. 
+A super exiting exercise done as a part of my course where the task was to find the number of letters that can be posted and the task was restricted to use just 
+the If-condition. 
 A program in Python that reads:
 1: Quantity of money RS the user has to buy envelope and stamp.
 2: Price PE of each envelope.
